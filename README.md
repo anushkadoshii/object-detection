@@ -8,7 +8,7 @@ This is an implementation of a 2016 research paper by Wei Liu et al.
 
 ---
 
-### Download Datasets
+## Download Datasets
 
 **Download VOC2007 trainval and test**
 
@@ -18,7 +18,7 @@ This is an implementation of a 2016 research paper by Wei Liu et al.
 
 ``` sh data/scripts/VOC2012.sh ```
 
-### Training SSD
+## Training SSD
 
 **Download VGG16 backbone**
 
@@ -32,7 +32,7 @@ Now, to train SSD:
 
 ``` python train.py ```
 
-### Evaluation
+## Evaluation
 
 To evaulate a trained network:
 
